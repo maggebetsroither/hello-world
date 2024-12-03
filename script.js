@@ -1,3 +1,3 @@
-function greeting(name){
+function greeting_person(name){
     console.log("Hallo, ${name}");
 }
